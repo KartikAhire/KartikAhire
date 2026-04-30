@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Kartik Ahire 👋
 
-<!--
-**KartikAhire/KartikAhire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student (SPPU, Nashik)  
+💻 Aspiring Software Engineer  
+🚀 Focus: DSA | Web Development | AI/ML  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Languages: C++, Java, Python  
+- Tech: Django, HTML, CSS  
+- Tools: Git, GitHub  
+
+---
+
+## 📌 Projects
+- 🔥 Pneumonia Detection using CNN  
+- 🌾 AgriSpectrum (Farmer Support System)  
+- 🧠 DSA Practice (LeetCode + Striver Sheet)  
+
+---
+
+## 📊 GitHub Stats
+(Add later)
+
+---
+
+## 📫 Contact
+- LinkedIn: (add karo)
+- Email: (add karo)
