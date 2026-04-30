@@ -35,7 +35,7 @@
 
 - 🧠 DSA Practice (Striver Sheet)
   - Solved 300+ problems on LeetCode & HackerRank
-- 🌾 [Farmer Management System](https://github.com/KartikAhire/farmer-management-system)
+  
 
 ---
 
@@ -49,5 +49,5 @@
 
 ## 📫 Contact
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kartik-ahire-451068276/)
+- 🔗 [LinkedIn: https://www.linkedin.com/in/kartikahire656
 - 📧 Email: kartikahire656@gmail.com
