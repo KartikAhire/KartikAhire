@@ -28,8 +28,8 @@
   - Integrated REST APIs for prediction & data handling
   - Used medical image dataset with accurate predictions
  
--🌾 [Farmer Management System](https://github.com/KartikAhire/farmer-management-system)
-  - 🔗 Live: https://your-website-link.com
+-🌾 [Farmer Management System](https://github.com/KartikAhire/farmer-management-syste)
+  - 🔗 Live:https://www.veankglobalexport.com/
 
 - 🛒 [E-Commerce Web App](https://github.com/KartikAhire)
   - Full-stack app with product catalog, authentication, cart
