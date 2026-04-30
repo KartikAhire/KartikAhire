@@ -8,7 +8,7 @@
 
 ## 🔧 Skills
 - Languages: C++, Java, Python  
-- Tech: Django, HTML, CSS  
+- Tech: Django, HTML, CSS , js , reactjs , sql , nodejs 
 - Tools: Git, GitHub  
 
 ---
@@ -21,10 +21,10 @@
 ---
 
 ## 📊 GitHub Stats
-(Add later)
+
 
 ---
 
 ## 📫 Contact
-- LinkedIn: (add karo)
-- Email: (add karo)
+- LinkedIn: 
+- Email: (kartikahire656@gmail.com)
